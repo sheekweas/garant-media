@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/sheekweas/garant-media.git/static/css/main.1dcce756.css",
+    "main.js": "/sheekweas/garant-media.git/static/js/main.991630b2.js",
+    "static/media/pdf.pdf": "/sheekweas/garant-media.git/static/media/pdf.96900baf6bdcd302b18b.pdf",
+    "static/media/ima6.PNG": "/sheekweas/garant-media.git/static/media/ima6.60fa8d853eaecfb8db11.PNG",
+    "static/media/ima3.PNG": "/sheekweas/garant-media.git/static/media/ima3.143d0911d6da1e4c04ee.PNG",
+    "static/media/ima2.PNG": "/sheekweas/garant-media.git/static/media/ima2.775b665c78e7e55d1624.PNG",
+    "static/media/ima4.jpg": "/sheekweas/garant-media.git/static/media/ima4.a4355f7523175a9fb496.jpg",
+    "static/media/ima5.PNG": "/sheekweas/garant-media.git/static/media/ima5.a99971149cd54bad5568.PNG",
+    "static/media/bezfona.png": "/sheekweas/garant-media.git/static/media/bezfona.a9455d61598c572e3602.png",
+    "static/media/ima1.PNG": "/sheekweas/garant-media.git/static/media/ima1.07fe4bdbb98cad9c905e.PNG",
+    "index.html": "/sheekweas/garant-media.git/index.html",
+    "main.1dcce756.css.map": "/sheekweas/garant-media.git/static/css/main.1dcce756.css.map",
+    "main.991630b2.js.map": "/sheekweas/garant-media.git/static/js/main.991630b2.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1dcce756.css",
+    "static/js/main.991630b2.js"
+  ]
+}
